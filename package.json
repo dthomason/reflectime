@@ -1,0 +1,10 @@
+{
+  "name": "reflectime-root",
+  "version": "1.0.0",
+  "description": "root for reflectimeApp",
+  "main": "./app/index.js",
+  "repository": "git@github.com:dthomason/reflectime.git",
+  "author": "David Thomason davidthomason00@gmail.com",
+  "license": "UNLICENSED",
+  "private": true
+}
