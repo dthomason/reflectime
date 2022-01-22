@@ -6,5 +6,10 @@
   "repository": "git@github.com:dthomason/reflectime.git",
   "author": "David Thomason davidthomason00@gmail.com",
   "license": "UNLICENSED",
-  "private": true
+  "private": true,
+  "volta": {
+    "node": "14.17.0",
+    "yarn": "1.22.10",
+    "npm": "7.14.0"
+  }
 }
